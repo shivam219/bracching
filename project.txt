@@ -11,3 +11,6 @@ all digital foote=rpint, brower data, file of server, images, videos is data
 
 aall data s ben collect by company  is under security concern not all company provide security to end userd
 some of them are stored data in thirt prarty server they may cause security or data can theft by hacker.
+tell talk about be secure your data
+as user when ever your giving data and  password make sure when  sure web sites is  fully secure or not.
+
